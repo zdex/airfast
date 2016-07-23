@@ -6,5 +6,7 @@ Requires:
 
 Usage:
   cd Airfast
+	
   chmod 775 airfast.sh
+  
   sudo ./airfast.sh
