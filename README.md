@@ -2,11 +2,12 @@
   Makes cracking wifi easy. 
 
 Requires:
-  aircrack-ng
+	aircrack-ng
 
 Usage:
-  cd Airfast
 	
-  chmod 775 airfast.sh
-  
-  sudo ./airfast.sh
+	unzip airfast-master.zip
+	cd airfast-master
+	chmod 775 airfast.sh
+	
+	sudo ./airfast.sh
